@@ -1,0 +1,3 @@
+/home/CrystalNet/build/CMakeFiles/SafeBoundary.dir
+/home/CrystalNet/build/CMakeFiles/edit_cache.dir
+/home/CrystalNet/build/CMakeFiles/rebuild_cache.dir
