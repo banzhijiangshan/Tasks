@@ -1,3 +1,0 @@
-/home/MuCache/build/CMakeFiles/MuCache.dir
-/home/MuCache/build/CMakeFiles/edit_cache.dir
-/home/MuCache/build/CMakeFiles/rebuild_cache.dir

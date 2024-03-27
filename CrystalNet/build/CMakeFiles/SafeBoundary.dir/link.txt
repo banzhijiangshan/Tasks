@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/SafeBoundary.dir/src/device.cpp.o CMakeFiles/SafeBoundary.dir/src/main.cpp.o CMakeFiles/SafeBoundary.dir/src/network.cpp.o -o SafeBoundary 
